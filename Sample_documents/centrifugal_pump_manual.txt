@@ -1,0 +1,27 @@
+CENTRIFUGAL PUMP MODEL CP-200 - OPERATION AND MAINTENANCE MANUAL
+
+1. SAFETY INSTRUCTIONS
+Always switch off and lock out the main power supply before any maintenance work. Wear safety goggles, gloves and safety shoes while working near the pump. Never run the pump dry, because dry running destroys the mechanical seal within a few minutes. Do not touch the pump casing during operation; surface temperature can reach 80 degrees Celsius. Keep the area around the motor free of oil and water to avoid slips and electrical hazards.
+
+2. TECHNICAL SPECIFICATIONS
+Rated power: 7.5 kW. Rated voltage: 415 V, three phase, 50 Hz. Rated speed: 2900 RPM. Maximum flow rate: 120 cubic meters per hour. Maximum head: 45 meters. Maximum operating pressure: 6 bar. Maximum fluid temperature: 90 degrees Celsius. Inlet size: 80 mm. Outlet size: 65 mm. Motor protection class: IP55.
+
+3. STARTUP PROCEDURE
+Step 1: Check that the suction valve is fully open and the discharge valve is slightly open. Step 2: Prime the pump by filling the casing and suction line with fluid so that no air remains. Step 3: Rotate the shaft by hand to confirm it turns freely. Step 4: Start the motor and check that the rotation direction matches the arrow on the casing. Step 5: Slowly open the discharge valve until the required flow is reached. Step 6: Check pressure gauge, noise and vibration within the first five minutes.
+
+4. SHUTDOWN PROCEDURE
+Slowly close the discharge valve, then switch off the motor. Close the suction valve after the pump has stopped completely. If the pump will stay idle for more than one week, drain the casing to prevent corrosion and freezing.
+
+5. PREVENTIVE MAINTENANCE SCHEDULE
+Daily: check for leakage, unusual noise and vibration, and read the pressure gauge. Weekly: inspect the mechanical seal for drips and check the coupling guard. Monthly: grease the motor bearings with lithium based grease, about 20 grams per bearing. Every 3 months: check coupling alignment and tighten foundation bolts. Every 6 months: inspect the impeller for wear and clean the strainer. Every 12 months: replace the mechanical seal and bearings, and measure motor insulation resistance, which must be above 1 megaohm.
+
+6. TROUBLESHOOTING GUIDE
+Problem: Pump does not deliver fluid. Causes: pump not primed, suction valve closed, air leak in suction line, or wrong rotation direction. Remedy: reprime the pump, open the suction valve, fix the leak, and swap two motor phases to correct the rotation.
+Problem: Low flow or low pressure. Causes: worn impeller, clogged strainer, or partially closed valve. Remedy: clean the strainer, open the valve fully, and replace the impeller if the wear is more than 2 mm.
+Problem: Excessive vibration. Causes: misalignment, worn bearings, cavitation, or loose foundation bolts. Remedy: realign the coupling, replace the bearings, increase suction pressure, and tighten the bolts.
+Problem: Motor overheating. Causes: low voltage, overload, blocked cooling fan, or bearing failure. Remedy: check supply voltage, reduce the load, clean the fan cover, and replace the bearings. Motor winding temperature must not exceed 120 degrees Celsius.
+Problem: Leakage from the shaft seal. Causes: worn mechanical seal or dry running. Remedy: replace the mechanical seal and make sure the pump is always primed before starting.
+Problem: Loud rattling noise. Cause: cavitation, which happens when suction pressure is too low. Remedy: lower the pump height above the tank, clean the suction line, and reduce the flow.
+
+7. SPARE PARTS
+Mechanical seal part number MS-200. Impeller part number IM-200. Bearing set part number BR-6308. Coupling spider part number CS-90. Recommended stock: one mechanical seal and one bearing set at all times.

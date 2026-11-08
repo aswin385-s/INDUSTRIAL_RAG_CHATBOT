@@ -1,0 +1,8 @@
+torch
+transformers>=4.40
+accelerate
+sentence-transformers
+faiss-cpu
+pypdf
+streamlit
+numpy
