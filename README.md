@@ -1,6 +1,6 @@
 # AI-Powered Industrial Chatbot Using Hugging Face LLMs
 
-![INTERFACE](demonistration/interface.png)
+![INTERFACE](demonistration/Interface.png)
 
 An AI-powered industrial chatbot that answers questions about technical and maintenance documents using **Retrieval-Augmented Generation (RAG)**. It uses a Hugging Face language model, sentence embeddings, and a FAISS vector database to retrieve relevant information and generate answers with source references.
 
